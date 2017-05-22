@@ -3,7 +3,7 @@
 - [x] Artifact produced is a fork of the [core-algorithms][core-algorithms] repo.
 - [x] Can run all tests with `npm test`.
 - [x] `makeChange()` algorithm is implemented according to the description in [algorithms.md][algorithms-list].
-- [ ] Tests for `makeChange()` exist with at least 2 unit tests using valid inputs, and at least 1 unit test using invalid inputs.
+- [x] Tests for `makeChange()` exist with at least 2 unit tests using valid inputs, and at least 1 unit test using invalid inputs.
 - [ ] `fizzBuzz()` algorithm is implemented according to the description in [algorithms.md][algorithms-list].
 - [ ] Tests for `fizzBuzz()` exist.
 - [ ] `isPalindrome()` algorithm is implemented according to the description in [algorithms.md][algorithms-list].
@@ -24,7 +24,7 @@
 - [ ] Tests for `setSymmetricDifference()` exist with at least 2 unit tests using valid inputs, and at least 1 unit test using invalid inputs.
 - [x] Repository includes a README file with basic installation and setup instructions.
 - [x] All package dependencies are properly declared in `package.json`.
-- [xM] All major features are added via pull requests with a clear description and concise commit messages.
+- [x] All major features are added via pull requests with a clear description and concise commit messages.
 - [ ] Code uses a linter and there are no linting errors.
 - [x] Variables, functions, files, etc. have appropriate and meaningful names.
 - [x] Functions are small and serve a single purpose.
