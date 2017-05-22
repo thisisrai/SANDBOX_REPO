@@ -6,8 +6,9 @@ Base repository for the [Core Algorithms](http://jsdev.learnersguild.org/goals/1
 
 ## Installation and Setup
 
-_Fill this out_
+1. run 'npm install'
+2. to check that tests pass 'npm test'
 
 ## Usage and Examples
 
-_...and this_
+Click into 'src' directory for solved algorithms, check 'test' for written tests. 
