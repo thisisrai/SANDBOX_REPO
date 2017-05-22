@@ -50,4 +50,8 @@ describe('makeChange()', function(){
       pennies: 0,
     })
   })
+
+  it('takes invalid inputs', function(){
+    expect(makeChange({price: 100, amountGiven: 99})).to.deep.equal('INSUFFICIENT FUND')
+  })
 })
