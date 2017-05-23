@@ -8,7 +8,8 @@ Base repository for the [Core Algorithms](http://jsdev.learnersguild.org/goals/1
 
 1. run 'npm install'
 2. to check that tests pass 'npm test'
+3. to check with eslint run 'npm run linter'
 
 ## Usage and Examples
 
-Click into 'src' directory for solved algorithms, check 'test' for written tests. 
+Click into 'src' directory for solved algorithms, check 'test' for written tests.

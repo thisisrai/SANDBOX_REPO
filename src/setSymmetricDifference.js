@@ -12,9 +12,9 @@ export default function setSymmetricDifference(a, b) {
     }
   }
 
-  for(var i = 0; i < b.length; i++) {
-    if(!a.includes(b[i]) && !symmetricDifferenceArr.includes(b[i])) {
-      symmetricDifferenceArr.push(b[i])
+  for(var j = 0; j < b.length; j++) {
+    if(!a.includes(b[j]) && !symmetricDifferenceArr.includes(b[j])) {
+      symmetricDifferenceArr.push(b[j])
     }
   }
 

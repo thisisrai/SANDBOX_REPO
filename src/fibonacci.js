@@ -9,7 +9,7 @@ export default function fibonacci(nth) {
     return [0]
   }
   else if( nth === 2 ) {
-    return initialArr
+    return fibonacciArr
   } else {
 
     for(var i = 1; i < nth - 1 ; i++) {
