@@ -8,7 +8,11 @@ describe('factorial()', () => {
   })
 
   it('should output the correct factorial', () => {
+
     expect(factorial(5)).to.deep.equal(120)
+
+    expect(factorial(3)).to.deep.equal(6)
+
   })
-  
+
 })
