@@ -16,7 +16,6 @@ describe('fibonacci()', () => {
   })
 
   it('return invalid input if not a number', () => {
-    console.log(fibonacci("hello"))
     expect(fibonacci('Hello')).to.deep.equal('INVALID INPUT')
   })
 
